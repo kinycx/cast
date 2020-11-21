@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214997684264",
+    "firebase_url": "https://map-test-be760.firebaseio.com",
+    "project_id": "map-test-be760",
+    "storage_bucket": "map-test-be760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214997684264:android:e96348e8a4175cf509e51d",
+        "android_client_info": {
+          "package_name": "com.brousers.cast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214997684264-idlcjfp41pe0ohf7c6rh28dckse6a0ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brousers.cast",
+            "certificate_hash": "15077b660db0319b5b31e4855168c20d7ca79538"
+          }
+        },
+        {
+          "client_id": "214997684264-8mg97c6r3ldjrdif86edt9fj46st9ppe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPpLRblxvlk-cOESJCH46A2_66ftSbi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214997684264-8mg97c6r3ldjrdif86edt9fj46st9ppe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
