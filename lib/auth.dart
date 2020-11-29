@@ -28,3 +28,8 @@ Future<User> signInWithGoogle() async {
 void signOutGoogle() async {
   await googleSignIn.signOut();
 }
+
+Future<UserCredential> createUserWithEmailAndPassword(String mail, String password){
+  return _auth.createUserWithEmailAndPassword(email: mail, password: password);
+    }
+

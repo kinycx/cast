@@ -6,12 +6,12 @@ import 'postList.dart';
 import 'textInputWidget.dart';
 
 class MyHomePage extends StatefulWidget {
-  final User user;
+final User user;
 
-  MyHomePage(this.user);
+MyHomePage(this.user);
 
-  @override
-  _MyHomePageState createState() => _MyHomePageState();
+@override
+_MyHomePageState createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
